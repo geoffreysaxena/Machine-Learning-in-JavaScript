@@ -6,3 +6,5 @@
 </p>
 
 An attempt to implement my knowledge of Machine Learning in JavaScript!
+
+## <a href ="https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Linear%20Regression">Linear Regression:</a>
