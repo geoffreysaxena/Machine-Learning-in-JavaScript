@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>100 ML-JS</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.8.2/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.2.0/lib/p5.min.js"></script>
+
+    <script src="regression.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+</head>
+<!--<style>
+        body{background-color: #80807F;}
+</style>-->
+
+<body>
+    <div id="cont">
+        <div id="canvas-cont"></div>
+        <div id="interaction">
+            <div id="coeff" class="user-input">
+                <label id="coeffP" for="coeffSlider">Order: 1</label>
+                <input id="coeffSlider" class="slider" type="range" min=1 max=20 step=1 value=1 onchange="updateCoeffs()">
+            </div>
+            <br>
+            <div id="learn" class="user-input">
+                <label id="learnP" for="coeffSlider">Learning rate: 0.1</label>
+                <input id="learnSlider" class="slider" type="range" min=0.01 max=0.9 step=0.01 value=0.1 onchange="updateLearningRate()">
+            </div>
+            <br>
+            <button id="reset" type="button" onclick="reset()">Reset</button>
+        </div>
+    </div>
+</body>
+
+</html>
