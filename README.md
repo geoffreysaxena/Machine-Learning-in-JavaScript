@@ -7,5 +7,5 @@
 
 **_An attempt to implement my knowledge of Machine Learning in JavaScript!_**
 
-Resources
-- [Linear Regression] (https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Linear%20Regression)
+## Resources
+- [Linear Regression](https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Linear%20Regression)
