@@ -5,6 +5,7 @@
   <a href="https://p5js.org/"> <img alt="" src="https://img.shields.io/badge/p5.js-1.2.0-ED225D"> </a> 
 </p>
 
-An attempt to implement my knowledge of Machine Learning in JavaScript!
+**_An attempt to implement my knowledge of Machine Learning in JavaScript!_**
 
-## <a href ="https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Linear%20Regression">Linear Regression:</a>
+Resources
+- [Linear Regression] (https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Linear%20Regression)
