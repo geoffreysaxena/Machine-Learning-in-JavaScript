@@ -11,3 +11,6 @@
 - [Linear Regression](https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Linear%20Regression)
 - [Logistic Regression](https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Logistic%20Regression)
 - [Polynomial Regression](https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Polynomial%20Regression)
+
+## Live Demo
+- [Regression](https://geoffreysaxena.github.io/playground-regression.html)
