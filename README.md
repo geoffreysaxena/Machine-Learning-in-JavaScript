@@ -13,4 +13,4 @@
 - [Polynomial Regression](https://github.com/GeoffreySaxena/Machine-Learning-in-JavaScript/tree/main/Polynomial%20Regression)
 
 ## Live Demo
-- [Regression](https://geoffreysaxena.github.io/playground-regression.html)
+- [Regression](https://geoffreysaxena.github.io/playground/Playground-Regression/index.html)
